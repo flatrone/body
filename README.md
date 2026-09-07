@@ -1,3 +1,4 @@
+<img width="592" height="381" alt="ДЖО вейдер" src="https://github.com/user-attachments/assets/39824a0b-27b0-4665-a726-a21e87b1486d" />
 # body
 
 25.03.2025
